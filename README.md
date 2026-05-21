@@ -1,2 +1,3 @@
-# I-a-python-noob
+# I am a python-noob
 repo for me and for everyone learning python 
+
